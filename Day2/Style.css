@@ -1,0 +1,9 @@
+#class1{
+    border: px solid black;
+    width: 400px;
+    height: 50px;
+}
+#container{
+    width: auto;
+    height: auto;
+}
